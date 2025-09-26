@@ -5,84 +5,84 @@ const productos = [
     nombre: 'Carne fina',
     precio: 16500,
     descripcion: 'Corte de res seleccionado, suave y jugoso.',
-    imagen: 'img/carne-fina.webp'
+    imagen: 'img/productos/res-vaca/carne-fina.webp'
   },
   {
     categoria: 'res',
     nombre: 'Carne milanesa',
     precio: 14500,
     descripcion: 'Carne delgada ideal para empanizar o freír.',
-    imagen: 'img/carne-milanesa.webp'
+    imagen: 'img/productos/res-vaca/milanesa.webp'
   },
   {
     categoria: 'res',
     nombre: 'Churrasco',
     precio: 20500,
     descripcion: 'Corte especial para parrilla, tierno y sabroso.',
-    imagen: 'img/churrasco.webp'
+    imagen: 'img/productos/res-vaca/churrasco.webp'
   },
   {
     categoria: 'res',
     nombre: 'Palomilla',
     precio: 14500,
     descripcion: 'Corte tradicional de res, versátil en la cocina.',
-    imagen: 'img/palomilla.webp'
+    imagen: 'img/productos/res-vaca/palomilla.webp'
   },
   {
     categoria: 'res',
     nombre: 'Falda',
     precio: 14000,
     descripcion: 'Corte ideal para sudados, caldos y guisos.',
-    imagen: 'img/falda.webp'
+    imagen: 'img/productos/res-vaca/falda.webp'
   },
   {
     categoria: 'res',
     nombre: 'Sobrebarriga',
     precio: 14500,
     descripcion: 'Clásico corte para sudado o al horno.',
-    imagen: 'img/sobrebarriga.webp'
+    imagen: 'img/productos/res-vaca/sobrebarriga.webp'
   },
   {
     categoria: 'res',
     nombre: 'Murillo',
     precio: 12000,
     descripcion: 'Corte económico, ideal para guisos y sopas.',
-    imagen: 'img/murillo.webp'
+    imagen: 'img/productos/res-vaca/murillo.webp'
   },
   {
     categoria: 'res',
-    nombre: 'Morrillo',
+    nombre: 'Morillo',
     precio: 14000,
     descripcion: 'Corte carnudo para guisos y caldos sustanciosos.',
-    imagen: 'img/morrillo.webp'
+    imagen: 'img/productos/res-vaca/morillo.webp'
   },
   {
     categoria: 'res',
     nombre: 'Hueso carnudo',
     precio: 6000,
     descripcion: 'Hueso con carne, perfecto para caldos y sopas.',
-    imagen: 'img/hueso-carnudo.webp'
+    imagen: 'img/productos/res-vaca/hueso-carnudo.webp'
   },
   {
     categoria: 'res',
     nombre: 'Molida corriente',
     precio: 9000,
     descripcion: 'Carne molida básica para todo tipo de preparaciones.',
-    imagen: 'img/molida-corriente.webp'
+    imagen: 'img/productos/res-vaca/carne-molida.webp'
   },
   {
     categoria: 'res',
     nombre: 'Molida especial',
     precio: 13500,
     descripcion: 'Carne molida seleccionada, más suave y magra.',
-    imagen: 'img/molida-especial.webp'
+    imagen: 'img/productos/res-vaca/carne-molida-fina.webp'
   },
   {
     categoria: 'res',
     nombre: 'Costilla',
     precio: 12000,
     descripcion: 'Costilla carnosa ideal para asados y caldos.',
-    imagen: 'img/costilla-res.webp'
+    imagen: 'img/productos/res-vaca/costilla.webp'
   },
 
   // 🍗 Pollo
@@ -91,35 +91,35 @@ const productos = [
     nombre: 'Pechuga',
     precio: 9000,
     descripcion: 'Pechuga fresca y magra de pollo.',
-    imagen: 'img/pechuga-pollo.webp'
+    imagen: 'img/productos/pollo/pechuga.webp'
   },
   {
     categoria: 'pollo',
     nombre: 'Pierna pernil',
     precio: 6500,
     descripcion: 'Pierna pernil jugosa, ideal para asar o guisar.',
-    imagen: 'img/pierna-pernil.webp'
+    imagen: 'img/productos/pollo/piernas-pernil.webp'
   },
   {
     categoria: 'pollo',
-    nombre: 'Colombianas',
+    nombre: 'Colombinas',
     precio: 6000,
-    descripcion: 'Presas de pollo colombianas para preparar al gusto.',
-    imagen: 'img/pollo-colombianas.webp'
+    descripcion: 'Presas de pollo colombinas para preparar al gusto.',
+    imagen: 'img/productos/pollo/colombinas.webp'
   },
   {
     categoria: 'pollo',
     nombre: 'Alas con',
     precio: 4500,
     descripcion: 'Alas de pollo con piel, perfectas para freír o asar.',
-    imagen: 'img/alas-con.webp'
+    imagen: 'img/productos/pollo/alitas-con.webp'
   },
   {
     categoria: 'pollo',
     nombre: 'Alas sin',
     precio: 6000,
     descripcion: 'Alitas de pollo sin piel, listas para cocinar.',
-    imagen: 'img/alas-sin.webp'
+    imagen: 'img/productos/pollo/alitas-sin.webp'
   },
 
   // 🥩 Recortes
@@ -128,14 +128,14 @@ const productos = [
     nombre: 'Recorte 1 libra',
     precio: 8000,
     descripcion: 'Recortes de res surtidos, ideales para guisos y caldos. Presentación de 1 libra.',
-    imagen: 'img/recorte-1lb.webp'
+    imagen: 'img/productos/res-vaca/carne-fina.webp'
   },
   {
     categoria: 'recortes',
     nombre: 'Recorte 2 libras',
     precio: 15000,
     descripcion: 'Recortes de res surtidos, ideales para guisos y caldos. Presentación de 2 libras.',
-    imagen: 'img/recorte-2lb.webp'
+    imagen: 'img/productos/res-vaca/carne-fina.webp'
   }
 
 ];
