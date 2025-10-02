@@ -124,82 +124,77 @@ const productos = [
 
   // Cerdo
   {
-    categoria: 'cerdo',
-    nombre: 'Lomo',
-    precio: 14000,
-    descripcion: '',
-    imagen: ''
+  categoria: 'cerdo',
+  nombre: 'Lomo',
+  precio: 14000,
+  descripcion: 'Corte magro, suave y de gran versatilidad en la cocina.',
+  imagen: 'img/productos/cerdo/lomo-cerdo.webp'
   },
+  
   {
     categoria: 'cerdo',
     nombre: 'Pierna',
     precio: 12500,
-    descripcion: '',
-    imagen: ''
+    descripcion: 'Carne jugosa y tierna, ideal para asados y guisos.',
+    imagen: 'img/productos/cerdo/pierna-cerdo.webp'
   },
   {
     categoria: 'cerdo',
     nombre: 'Costillitas',
     precio: 12500,
-    descripcion: '',
-    imagen: ''
+    descripcion: 'Costillas tiernas y sabrosas, perfectas para la parrilla.',
+    imagen: 'img/productos/cerdo/costillas-cerdo.webp'
   },
   {
     categoria: 'cerdo',
     nombre: 'Panceta',
     precio: 15500,
-    descripcion: '',
-    imagen: ''
+    descripcion: 'Corte con grasa y sabor intenso, usado en frituras y asados.',
+    imagen: 'img/productos/cerdo/panceta-cerdo.webp'
   },
   {
     categoria: 'cerdo',
     nombre: 'Barriga',
     precio: 14000,
-    descripcion: '',
-    imagen: ''
+    descripcion: 'Carne con alto marmoleo, muy jugosa y sabrosa.',
+    imagen: 'img/productos/cerdo/barriga-cerdo.webp'
   },
   {
     categoria: 'cerdo',
     nombre: 'Papada',
     precio: 11500,
-    descripcion: '',
-    imagen: ''
+    descripcion: 'Corte graso y suave, ideal para guisos y preparaciones largas.',
+    imagen: 'img/productos/cerdo/papada-cerdo.webp'
   },
   {
     categoria: 'cerdo',
     nombre: 'Chuleta',
     precio: 11500,
-    descripcion: '',
-    imagen: ''
+    descripcion: 'Corte clásico con hueso, jugoso y fácil de preparar.',
+    imagen: 'img/productos/cerdo/chuleta-cerdo.webp'
   },
   {
     categoria: 'cerdo',
     nombre: 'Chuleta aumada',
     precio: 12500,
-    descripcion: '',
-    imagen: ''
+    descripcion: 'Chuleta curada y ahumada con un sabor intenso.',
+    imagen: 'img/productos/cerdo/chuleta-aumada-cerdo.webp'
   },
   {
     categoria: 'cerdo',
     nombre: 'Costilla aumada',
     precio: 12000,
-    descripcion: '',
-    imagen: ''
-  },
-  {
-    categoria: 'cerdo',
-    nombre: 'Costilla aumada',
-    precio: 12000,
-    descripcion: '',
-    imagen: ''
+    descripcion: 'Costilla ahumada, suave y con aroma característico.',
+    imagen: 'img/productos/cerdo/costilla-aumada-cerdo.webp'
   },
   {
     categoria: 'cerdo',
     nombre: 'Pezuña',
     precio: 6500,
-    descripcion: '',
-    imagen: ''
+    descripcion: 'Ideal para caldos y sopas, aporta gran sabor y textura.',
+    imagen: 'img/productos/cerdo/pezuña-cerdo.webp'
   },
+
 
   // 🥩 Recortes
   {
