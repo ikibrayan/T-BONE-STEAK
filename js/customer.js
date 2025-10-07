@@ -51,7 +51,7 @@ function finalizarPedido() {
     mensaje += `\n📝 Observaciones: ${observaciones}`;
   }
 
-  const numero = '3205510535'; // Reemplaza con el número real
+  const numero = '573113098659'; // Reemplaza con el número real
   const url = `https://wa.me/${numero}?text=${encodeURIComponent(mensaje)}`;
 
   // 🔹 Limpiar pedido después de enviarlo
